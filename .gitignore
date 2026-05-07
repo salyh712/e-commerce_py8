@@ -216,12 +216,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-
-database.py
-main.py
-models.py
-
-
-
-
-
